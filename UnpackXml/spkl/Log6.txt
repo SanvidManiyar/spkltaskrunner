@@ -1,0 +1,101 @@
+5:50:07 PM	Reading mapping directives...
+5:50:07 PM	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+5:50:07 PM	Map folder 'C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\Plugins\bin\' does not exist.
+5:50:07 PM	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+5:50:07 PM	Map folder 'C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\Webresources\Webresources\' does not exist.
+5:50:07 PM	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+5:50:07 PM	Map folder 'C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\Webresources\Webresources\' does not exist.
+5:50:07 PM	Read-only files will be over-written or deleted.
+5:50:07 PM	
+5:50:07 PM	Extracting C:\Users\imriel-support\AppData\Local\Temp\tmp9634.tmp to C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package
+5:50:07 PM	
+5:50:07 PM	Processing Component: Entities
+5:50:07 PM	 - Account
+5:50:07 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\FormXml\card\{cccff382-2b92-467e-bf1b-3db179512af8}.xml
+5:50:07 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\FormXml\main\{a72c7955-442b-4ea4-9499-b10cd18b4256}.xml
+5:50:07 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\FormXml\main\{74da4947-5d1d-4400-9f99-c6ed578211bb}.xml
+5:50:07 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\FormXml\main\{cb430327-bcc1-416d-959d-db7592e685af}.xml
+5:50:07 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\FormXml\main\{b053a39a-041a-4356-acef-ddf00182762b}.xml
+5:50:07 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+5:50:07 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\FormXml\quickCreate\{c9e7ec2d-efca-4e4c-b3e3-f63c4bba5e4b}.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\FormXml\quick\{894155a3-95d5-4881-b9c3-04444cef1bcc}.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\FormXml\quick\{69cff312-cfb6-4289-9631-249ab85d2c62}.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\FormXml\quick\{2205c86d-ed88-4a2f-a447-3b86a8781f2e}.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\FormXml\quick\{098ae145-1567-41ec-8398-86dbaac70c9b}.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\FormXml\quick\{43300723-f867-420b-ab28-976a4d12e6c4}.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\FormXml\quick\{b028db32-3619-48a5-ac51-cf3f947b0ef3}.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\RibbonDiff.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Account\Entity.xml
+5:50:08 PM	 - msdyn_accountpricelist
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_accountpricelist\RibbonDiff.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_accountpricelist\Entity.xml
+5:50:08 PM	 - msdyn_actual
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_actual\RibbonDiff.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_actual\Entity.xml
+5:50:08 PM	 - msdyn_agreement
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_agreement\RibbonDiff.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_agreement\Entity.xml
+5:50:08 PM	 - msdyn_customerasset
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_customerasset\RibbonDiff.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_customerasset\Entity.xml
+5:50:08 PM	 - msdyn_estimateline
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_estimateline\RibbonDiff.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_estimateline\Entity.xml
+5:50:08 PM	 - msdyn_fact
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_fact\RibbonDiff.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_fact\Entity.xml
+5:50:08 PM	 - msdyn_invoicelinetransaction
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_invoicelinetransaction\RibbonDiff.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_invoicelinetransaction\Entity.xml
+5:50:08 PM	 - msdyn_journalline
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_journalline\RibbonDiff.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_journalline\Entity.xml
+5:50:08 PM	 - msdyn_opportunitylinetransaction
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_opportunitylinetransaction\RibbonDiff.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_opportunitylinetransaction\Entity.xml
+5:50:08 PM	 - msdyn_orderlinetransaction
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_orderlinetransaction\RibbonDiff.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_orderlinetransaction\Entity.xml
+5:50:08 PM	 - msdyn_payment
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_payment\RibbonDiff.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_payment\Entity.xml
+5:50:08 PM	 - msdyn_project
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_project\RibbonDiff.xml
+5:50:08 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_project\Entity.xml
+5:50:08 PM	 - msdyn_purchaseorder
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_purchaseorder\RibbonDiff.xml
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_purchaseorder\Entity.xml
+5:50:09 PM	 - msdyn_quotelinetransaction
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_quotelinetransaction\RibbonDiff.xml
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_quotelinetransaction\Entity.xml
+5:50:09 PM	 - msdyn_requirementresourcepreference
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_requirementresourcepreference\RibbonDiff.xml
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_requirementresourcepreference\Entity.xml
+5:50:09 PM	 - msdyn_rma
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_rma\RibbonDiff.xml
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_rma\Entity.xml
+5:50:09 PM	 - msdyn_rmaproduct
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_rmaproduct\RibbonDiff.xml
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_rmaproduct\Entity.xml
+5:50:09 PM	 - msdyn_rtv
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_rtv\RibbonDiff.xml
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_rtv\Entity.xml
+5:50:09 PM	 - msdyn_workorder
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_workorder\RibbonDiff.xml
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_workorder\Entity.xml
+5:50:09 PM	 - msdyn_workorderresourcerestriction
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_workorderresourcerestriction\RibbonDiff.xml
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\msdyn_workorderresourcerestriction\Entity.xml
+5:50:09 PM	 - OpportunityProduct
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\OpportunityProduct\RibbonDiff.xml
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\OpportunityProduct\Entity.xml
+5:50:09 PM	 - Product
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Product\RibbonDiff.xml
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Product\Entity.xml
+5:50:09 PM	 - Quote
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Quote\RibbonDiff.xml
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\Quote\Entity.xml
+5:50:09 PM	 - QuoteDetail
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\QuoteDetail\RibbonDiff.xml
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\QuoteDetail\Entity.xml
+5:50:09 PM	 - SalesOrder

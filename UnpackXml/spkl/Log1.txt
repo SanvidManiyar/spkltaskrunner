@@ -1,0 +1,16 @@
+5:30:54 PM	Unpacking solution
+5:30:54 PM	Searching for packager config in 'C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\spkl\..'
+5:30:55 PM	Using Config 'C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml'
+5:37:16 PM	Unpacking solution
+5:37:16 PM	Searching for packager config in 'C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\spkl\..'
+5:37:16 PM	Using Config 'C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml'
+5:37:34 PM	Unpacking solution
+5:37:34 PM	Searching for packager config in 'C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\spkl\..'
+5:37:35 PM	Using Config 'C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml'
+5:49:39 PM	Unpacking solution
+5:49:39 PM	Searching for packager config in 'C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\spkl\..'
+5:49:39 PM	Using Config 'C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml'
+5:50:07 PM	Target C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\packages\spkl.1.0.226\tools
+5:50:07 PM	Map xml created at 'C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\packages\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\packager_map.xml'
+5:50:07 PM	Running C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\packages\spkl.1.0.226\tools\..\..\Microsoft.CrmSdk.CoreTools.9.0.0.7\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\imriel-support\AppData\Local\Temp\tmp9634.tmp" /folder:"C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package" /packagetype:unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+5:50:10 PM	Processed 1 config(s)

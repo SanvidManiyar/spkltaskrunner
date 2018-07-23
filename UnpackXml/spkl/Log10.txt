@@ -1,0 +1,24 @@
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\SalesOrder\RibbonDiff.xml
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Entities\SalesOrder\Entity.xml
+5:50:09 PM	Processing Component: Roles
+5:50:09 PM	Processing Component: Workflows
+5:50:09 PM	Processing Component: FieldSecurityProfiles
+5:50:09 PM	Processing Component: Templates
+5:50:09 PM	Processing Component: EntityMaps
+5:50:09 PM	Processing Component: EntityRelationships
+5:50:09 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Other\Relationships\Account.xml
+5:50:10 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Other\Relationships\BookableResource.xml
+5:50:10 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Other\Relationships\msdyn_taxcode.xml
+5:50:10 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Other\Relationships\Territory.xml
+5:50:10 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Other\Relationships.xml
+5:50:10 PM	Processing Component: optionsets
+5:50:10 PM	Processing Component: InteractionCentricDashboards
+5:50:10 PM	 - {15915835-b87c-49ec-9ffc-bfac3ac44ef1}
+5:50:10 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\InteractionCentricDashboards\{15915835-b87c-49ec-9ffc-bfac3ac44ef1}.xml
+5:50:10 PM	Processing Component: EntityDataProviders
+5:50:10 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Other\Customizations.xml
+5:50:10 PM	Creating: C:\Users\imriel-support\Documents\Visual Studio 2017\Projects\D365\UnpackXml\package\Other\Solution.xml
+5:50:10 PM	
+5:50:10 PM	Unmanaged Extract complete.
+5:50:10 PM	
+5:50:10 PM	4 warnings encountered
